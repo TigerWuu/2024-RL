@@ -33,4 +33,9 @@
 
 
 ## Final project
-The [final project repository](https://github.com/TigerWuu/IsaacLab)
+**Q-DRIVE: Quadrupedal Deep Reinforcement for Intelligent Versatile Execution**
+![image](https://micchang002.github.io/QDRIVE.github.io/background2.png
+)
+
+* The [final project repository](https://github.com/TigerWuu/IsaacLab)
+* The [website](https://micchang002.github.io/QDRIVE.github.io/)
